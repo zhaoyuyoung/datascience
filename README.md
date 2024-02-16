@@ -1,4 +1,4 @@
-datasciencecoursera
+datascience
 ===================
 
 repo for datascience toolbox
